@@ -5,7 +5,7 @@ A modern and responsive React-based Weather Forecast application that provides r
 ---
 
 ## Live Demo
-https://your-deployed-link-here.com
+https://weather-forecast-app-alpha-livid.vercel.app/
 
 ---
 
