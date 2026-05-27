@@ -11,8 +11,10 @@ function App() {
   const weather = useWeather();
 
   useEffect(() => {
-    //Get Current Location 
-    weather.fetchCurrentUserLocationData()
+    //Get Current Location
+    weather.fetchCurrentUserLocationData();
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
